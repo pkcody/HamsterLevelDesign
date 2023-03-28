@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6e1ef9659842224ea1bae5c9d13fcb0, type: 3}
   m_Name: YourLevel
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 179713891b73e854888546146a706572, type: 3}
+  sprite: {fileID: 21300000, guid: 57e1d6f8d15ee834aa41152bbe8e19fd, type: 3}
   scene: Your Level
